@@ -1,0 +1,10 @@
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/task/TaskModel.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/filter/FilterTaskAuth.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/utils/Utils.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/task/ITaskRepository.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/user/UserModel.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/user/IUserRepository.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/errors/ExceptionHandlerController.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/task/TaskController.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/TodolistApplication.java
+/home/lucas/turma-19-e-20-Tribo-B/projetos/projetos-pessoais/java-to-do-list/java-to-do-list/src/main/java/com/project/todolist/user/UserController.java
